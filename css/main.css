@@ -1,3 +1,19 @@
 body{
   background-image: url("https://oxa5120.github.io/image.jpg");
 }
+
+.nav{
+  float:left;
+}
+
+ .nav a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav a:hover {
+    background-color: #111;
+}
