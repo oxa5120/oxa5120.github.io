@@ -2,6 +2,13 @@ body{
   background-image: url("https://oxa5120.github.io/image.jpg");
 }
 
+#top{
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
 .nav{
   float:left;
 }
