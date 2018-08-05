@@ -1,6 +1,7 @@
 body{
   overflow-y: scroll;
   margin:0px;
+  text-align:center;
 }
 
 #back{
@@ -17,15 +18,15 @@ body{
 
 .nav{
   float:left;
+  padding-left:8px;
+  padding-right:8px;
+  padding-top:5px;
+  padding-bottom:5px;
 }
 
  .nav a {
     color: white;
     text-align: center;
-    padding-left:8px;
-    padding-right:8px;
-    padding-top:5px;
-    padding-bottom:5px;
     text-decoration: none;
 }
 
